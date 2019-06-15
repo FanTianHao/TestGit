@@ -1,0 +1,6 @@
+com\ego\result\FileResult.class
+com\ego\util\FTPUtil.class
+com\ego\result\BaseResult.class
+com\ego\util\DateUtil.class
+com\ego\result\BaseResultEnum.class
+com\ego\util\JsonUtil.class

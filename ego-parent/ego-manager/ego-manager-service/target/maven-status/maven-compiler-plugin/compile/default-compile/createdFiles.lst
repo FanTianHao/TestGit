@@ -1,0 +1,8 @@
+com\ego\service\impl\FileUploadServiceImpl.class
+com\ego\service\impl\GoodsServiceImpl.class
+com\ego\service\FileUploadServiceI.class
+com\ego\service\impl\GoodsCateGoryService.class
+com\ego\service\impl\BrandServiceImpl.class
+com\ego\service\BrandServiceI.class
+com\ego\service\GoodsCateGoryServiceI.class
+com\ego\service\GoodsServiceI.class
