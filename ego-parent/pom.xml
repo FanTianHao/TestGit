@@ -17,7 +17,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <!-- junit 依赖 -->
         <junit.version>4.12</junit.version>
         <!-- spring 依赖 -->
-        <spring-version>4.3.4.RELEASE</spring-version>
+        <spring-version>5.3.18</spring-version>
         <!-- hibernate 数据验证框架依赖 -->
         <hibernate-validator.version>5.3.3.Final</hibernate-validator.version>
         <!-- spring-mybatis 依赖 -->
