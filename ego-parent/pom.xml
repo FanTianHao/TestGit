@@ -52,7 +52,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <!-- Apache 其他依赖 -->
         <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
         <poi.version>3.15</poi.version>
-        <commons-net.version>3.3</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <commons-logging.version>1.2</commons-logging.version>
     </properties>
     <!-- 只定义依赖的版本，并不实际依赖 -->
